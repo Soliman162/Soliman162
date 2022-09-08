@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soliman162
+- 👋 Hi, I’m Ahmed Elsayed
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m currently learning Embedded Systems
 - 💞️ I’m looking to collaborate on Embedded projects
