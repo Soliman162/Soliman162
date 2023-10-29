@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed! 👋 
 
-![image](https://github.com/Soliman162/Soliman162/blob/main/Gimg.jpeg?raw=true)
+![image](https://github.com/Soliman162/Soliman162/blob/main/Gimg.jpg?raw=true)
                 
 ## 🚀 About Me  
 - I'm an Embedded Software Engineer 
