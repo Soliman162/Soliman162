@@ -1,9 +1,11 @@
 # Hi, I'm Ahmed! 👋 
 
-<img src="{https://github.com/Soliman162/Soliman162/blob/main/Gimg.jpeg}" />
+![image](https://github.com/Soliman162/Soliman162/blob/main/Gimg.jpeg?raw=true)
                 
 ## 🚀 About Me  
-I'm an Embedded Software Engineer 
+- I'm an Embedded Software Engineer 
+- 👀 I’m interested in Embedded Systems
+- 🌱 I’m currently learning Embedded Systems
     
 ## 🔗 Links  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ahmed-elsayed-76101a1a0)  
@@ -11,10 +13,6 @@ I'm an Embedded Software Engineer
   
 
 
-- 👋 Hi, I’m Ahmed Elsayed
-- 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning Embedded Systems
-- 💞️ I’m looking to collaborate on Embedded projects
 
 <!---
 Soliman162/Soliman162 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
